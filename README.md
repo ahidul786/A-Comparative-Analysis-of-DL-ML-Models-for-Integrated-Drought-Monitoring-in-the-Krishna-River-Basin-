@@ -3,9 +3,6 @@ This repository develops a Comprehensive Drought Index (CDI) using ML and DL mod
 Integrated Drought Monitoring Using Machine Learning and Deep Learning
 Krishna River Basin.
 
-📌 Overview
-The framework compares classical ensemble models with advanced deep learning approaches to evaluate their ability to capture complex spatiotemporal drought dynamics.
-
 🎯 Objectives
 
 Develop a Comprehensive Drought Index (CDI) using multi-source data
