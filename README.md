@@ -1,7 +1,8 @@
 # A-Comparative-Analysis-of-DL & ML-Models-for-Integrated-Drought-Monitoring-in-the-Krishna-River-Basin-
 This repository develops a Comprehensive Drought Index (CDI) using ML and DL models for the Krishna River Basin, India. Multi-source data from MODIS, CHIRPS, GLDAS, and SPEI are integrated, and models such as RF, XGBoost, LSTM, and ConvLSTM are evaluated to capture spatiotemporal drought dynamics for early warning and water resource planning.
 Integrated Drought Monitoring Using Machine Learning and Deep Learning
-Krishna River Basin,
+Krishna River Basin.
+
 📌 Overview
 The framework compares classical ensemble models with advanced deep learning approaches to evaluate their ability to capture complex spatiotemporal drought dynamics.
 
