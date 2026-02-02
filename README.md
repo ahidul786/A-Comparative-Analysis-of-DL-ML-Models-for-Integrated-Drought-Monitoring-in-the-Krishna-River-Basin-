@@ -52,15 +52,6 @@ Root Mean Square Error (RMSE)
 
 Mean Absolute Error (MAE)
 
-Consistency analysis with SPEI drought classes
-
-🗂 Repository Structure
-├── data/                 # Processed datasets
-├── preprocessing/        # Data cleaning & index calculation
-├── models/               # ML & DL model scripts
-├── results/              # Tables, figures, maps
-├── figures/              # Output maps & plots
-├── README.md             # Project documentation
 
 🔍 Key Findings
 
